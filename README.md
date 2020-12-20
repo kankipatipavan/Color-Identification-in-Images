@@ -1,4 +1,4 @@
-# Color-Identification-in-Images
+# Colour-Identification-in-Images
 
 Process :
 1. Load data and sample a image.
